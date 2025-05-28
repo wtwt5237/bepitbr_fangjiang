@@ -4,7 +4,8 @@
             2021 ©
             <a href="https://qbrc.swmed.edu/labs/wanglab/index.php">Dr. Tao Wang Lab</a> |
             <a href="https://qbrc.swmed.edu/">Quantitative Biomedical Research Center (QBRC)</a> |
-            <a href="https://www.utsouthwestern.edu/">UT Southwestern Medical Center</a>
+            <a href="https://www.utsouthwestern.edu/">UT Southwestern Medical Center</a> |
+            <a href="license.txt">Terms and Conditions</a>
         </p>
     </div>
 </footer>
